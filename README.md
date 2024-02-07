@@ -14,7 +14,7 @@ This template provides a minimal setup to create a portfolio website using React
 
 Check out the demo website: [Portfolio Demo](https://joanshameti.netlify.app/)
 
-<img src="/your-image.jpg" alt="Portfolio Demo" style="width: 40%;">
+<img src="/demo.png" alt="Portfolio Demo" style="width: 40%;">
 
 ## Getting Started
 
