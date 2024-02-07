@@ -1,4 +1,4 @@
-# Portfolio Website with React, Chakra UI, and Vite
+# Portfolio Website with React, Chakra UI, Vite and Three.JS
 
 This template provides a minimal setup to create a portfolio website using React, Chakra UI, and Vite, enabling hot module replacement (HMR) and integrating ESLint rules.
 
